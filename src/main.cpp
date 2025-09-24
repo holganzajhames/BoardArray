@@ -33,4 +33,4 @@ int main() {
 	} while (ans != 'x');
 
 	return 0;
-}
+};
